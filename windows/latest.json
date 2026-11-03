@@ -3,18 +3,18 @@
   "platform": "windows",
   "version": "0.4.0",
   "filename": "Portofoliu-Psihopedagog-Windows.zip",
-  "size": 22192140,
-  "sha256": "1011830a963338e7522cb31a89d4ddb071a8ac94414c5e23d248d39c34d310b8",
+  "size": 22192947,
+  "sha256": "eff5c69bbb1273e76d2e2a484bc6684bfde74fdc2fdae702e96198cb90ff6649",
   "chunks": [
     {
       "path": "windows/v0.4.0/part-0000",
       "size": 20971520,
-      "sha256": "fe06316ddf1faec20b3b95c866b9cc206f9ab920a3121cf028b8780b1d1df654"
+      "sha256": "df9a7f4b4fa760fbd4ebfa7bedcd52056ac7995ce0aa024b360df705779bdc54"
     },
     {
       "path": "windows/v0.4.0/part-0001",
-      "size": 1220620,
-      "sha256": "a2b1a54503ddad475ed46a797e96bb180a90b664e1d77babdc2a01486f740cf8"
+      "size": 1221427,
+      "sha256": "3d5b162248afd30d021c6b03f66505104792b136b3681964a34a219d507717fc"
     }
   ]
 }
