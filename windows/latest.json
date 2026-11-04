@@ -1,18 +1,18 @@
 {
   "format": "portofoliu-chunks-v1",
   "platform": "windows",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "filename": "Portofoliu-Psihopedagog-Windows.zip",
   "size": 22192947,
   "sha256": "eff5c69bbb1273e76d2e2a484bc6684bfde74fdc2fdae702e96198cb90ff6649",
   "chunks": [
     {
-      "path": "windows/v0.4.0/part-0000",
+      "path": "windows/v0.4.1/part-0000",
       "size": 20971520,
       "sha256": "df9a7f4b4fa760fbd4ebfa7bedcd52056ac7995ce0aa024b360df705779bdc54"
     },
     {
-      "path": "windows/v0.4.0/part-0001",
+      "path": "windows/v0.4.1/part-0001",
       "size": 1221427,
       "sha256": "3d5b162248afd30d021c6b03f66505104792b136b3681964a34a219d507717fc"
     }

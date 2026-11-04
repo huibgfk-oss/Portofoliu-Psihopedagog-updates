@@ -1,23 +1,23 @@
 {
   "format": "portofoliu-chunks-v1",
   "platform": "android",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "filename": "Portofoliu-Psihopedagog-Android-release.apk",
   "size": 46010126,
   "sha256": "f88a44adef31006dd2ad3e9e930e55decd397171388c6404fa138118daaead9f",
   "chunks": [
     {
-      "path": "android/v0.4.0/part-0000",
+      "path": "android/v0.4.1/part-0000",
       "size": 20971520,
       "sha256": "6b5ae43a558cae57cdc76075fbe9afad3436f3899c2e8936827a175f84449682"
     },
     {
-      "path": "android/v0.4.0/part-0001",
+      "path": "android/v0.4.1/part-0001",
       "size": 20971520,
       "sha256": "2f04276d6b9250ffc02dd9e9f7c96205887134803d17549f2321f8a3c69d938f"
     },
     {
-      "path": "android/v0.4.0/part-0002",
+      "path": "android/v0.4.1/part-0002",
       "size": 4067086,
       "sha256": "74db79db957a3a6e138584ed2455c61acba2326f11d2d4ae6b3dbe17a10adb48"
     }
